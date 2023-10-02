@@ -1,6 +1,6 @@
 cvzone==1.6.1
 Cython==3.0.2
-numpy==1.26.0
-streamlit==1.27.1
+numpy==1.23.5
+streamlit==1.26.0
 tensorflow==2.14.0
 
